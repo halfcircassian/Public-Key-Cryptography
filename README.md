@@ -1,2 +1,2 @@
 # Public-Key-Cryptography
-This repository my C++ homework.
+This repository includes my C++ homework.
